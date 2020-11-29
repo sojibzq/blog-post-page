@@ -1,0 +1,29 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.sj {
+	width: 500px;
+	background:linear-gradient(tomato,pink,gray);
+	margin: 20px auto;
+	padding: 20px 50px;
+	text-align: justify;
+	color: blue;
+	border-left: 8px solid black;
+}
+
+.sj h1{
+	font-size: 40px;
+	margin: 5px;
+	color: white;
+	font-family: candara;
+}
+
+.sj p{
+	font-family:High Tower Text;
+	font-size: 20px;
+}
+
+body {
+	background:linear-gradient(skyblue,lightgreen);
+}
